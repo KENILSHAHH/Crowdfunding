@@ -44,7 +44,6 @@ contract CrowdFunding {
 
             allCampaigns[i] = item;
         }
-
         return allCampaigns;
     }
     function donateToCampaign(uint256 _id) public payable {
