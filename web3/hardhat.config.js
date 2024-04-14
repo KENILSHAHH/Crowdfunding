@@ -12,7 +12,7 @@ module.exports = {
       base: {
         url: 'https://sepolia.infura.io/v3/',
         accounts: [
-          `c04f2876f3691d44fdba3592bf800c05516d419f10ac269a7a565c21dfda57fa`,
+          ``,
         ],
       },
     },
